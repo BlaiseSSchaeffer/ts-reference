@@ -37,6 +37,6 @@
     "typescript": "^3.6.3"
   },
   "dependencies": {
-    "config": "^3.2.2"
+    "config": "^3.3.8"
   }
 }
